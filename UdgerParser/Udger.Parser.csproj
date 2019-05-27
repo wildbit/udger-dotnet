@@ -6,9 +6,9 @@
     <Product>Udger Local parser</Product>
     <Description>UdgerParser is a .NET lib for the udger datafile ver. 3</Description>
     <Copyright>Copyright © Udger s.r.o.</Copyright>
-    <AssemblyVersion>3.0.0.2</AssemblyVersion>
-    <FileVersion>3.0.0.2</FileVersion>
-    <Version>3.0.0.2</Version>
+    <AssemblyVersion>3.0.1.2</AssemblyVersion>
+    <FileVersion>3.0.1.2</FileVersion>
+    <Version>3.0.1.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
