@@ -40,9 +40,8 @@ namespace Udger.Parser
             { 
                 if (!this.Connected)
                 {                   
-                    sqlite = new SQLiteConnection(@"Data Source=" + DataSourcePath);
+                    sqlite = new SQLiteConnection(@"Data Source=" + DataSourcePath + ";Mode=ReadOnly;");
                     this.connected = true;
-                    
                 }
             }
             catch (Exception e)
